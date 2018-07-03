@@ -1,0 +1,277 @@
+I   17474   02:03:31 Tracing started 06/29/2018 at 02:03:31
+I   17474   02:03:31 
+I   17474   02:03:31    Registry: /rp4t/app/redprairie/rwmsast1/les/data/registry
+I   17474   02:03:31    Hostname: hkdvl076 (10.209.3.21)
+I   17474   02:03:31        Port: 4610
+I   17474   02:03:31 
+I   17474   02:03:31 Category        Library         Version
+I   17474   02:03:31 --------------- --------------- -------------------------
+I   17474   02:03:31 MOCAbase        MOCAbase        2008.1.7.6               
+I   17474   02:03:31 MOCAdbutl       MOCAdbutl       2008.1.7.6               
+I   17474   02:03:31 MOCAems         MOCAems         2008.1.7.6               
+I   17474   02:03:31 MOCArepository  MOCArepository  2008.1.7.6               
+I   17474   02:03:31 MOCAsecurity                    2008.1.7.6               
+I   17474   02:03:31 MOCAxml         MOCAxml         2008.1.7.6               
+I   17474   02:03:31 MOCAcrud                        2008.1.7.6               
+I   17474   02:03:31 MCSI18N         MCSi18n         2008.1.7.6               
+I   17474   02:03:31 MCSbase         MCSbase                                  
+I   17474   02:03:31 MCSems                          2008.1.7.6               
+I   17474   02:03:31 MCSdda                          2008.1.7.6               
+I   17474   02:03:31 MCSDoc                                                   
+I   17474   02:03:31 DDSO                                                     
+I   17474   02:03:31 MCSSecurity                     2008.1.7.6               
+I   17474   02:03:31 MCSMedia                                                 
+I   17474   02:03:31 MTFint                          Build Date: Sep 23 2008  
+I   17474   02:03:31 mtfdyncfg                                                
+I   17474   02:03:31 SALweb                          2008.1.2                 
+I   17474   02:03:31 SALuser                         2008.1.2                 
+I   17474   02:03:31 SALrpt                          2008.1.2                 
+I   17474   02:03:31 SALprt                          2008.1.2                 
+I   17474   02:03:31 SALpronumber                    2008.1.2                 
+I   17474   02:03:31 SALora                          2008.1.2                 
+I   17474   02:03:31 SALmocarpt      SALmocarpt      2008.1.2                 
+I   17474   02:03:31 SALlex                          2008.1.2                 
+I   17474   02:03:31 SALems                          2008.1.2                 
+I   17474   02:03:31 SALbase                         2008.1.2                 
+I   17474   02:03:31 SALbatch                        2008.1.2                 
+I   17474   02:03:31 schedule                        2008.1.2                 
+I   17474   02:03:31 SALcbs                          2008.1.2                 
+I   17474   02:03:31 SALpm                           2008.1.2                 
+I   17474   02:03:31 SALlbl                          2008.1.2                 
+I   17474   02:03:31 SALcbsrpt                       2008.1.2                 
+I   17474   02:03:31 SALarc                          2008.1.2                 
+I   17474   02:03:31 SALent                          2008.1.2                 
+I   17474   02:03:31 SALvoc                          2008.1.2                 
+I   17474   02:03:31 SALgeoloc                       2008.1.2                 
+I   17474   02:03:31 SeamLES         libSeamLES      2008.1.2                 
+I   17474   02:03:31 SLems           slems           2008.1.2                 
+I   17474   02:03:31 SLtrg           sltrg           2008.1.2                 
+I   17474   02:03:31 SLjms                           2008.1.7.6               
+I   17474   02:03:31 SLmcsi                                                   
+I   17474   02:03:31 SLOTrpt                         2008.1.2                 
+I   17474   02:03:31 SLOTint                         2008.1.2                 
+I   17474   02:03:31 SLOThost                        2008.1.2                 
+I   17474   02:03:31 SLOTems                         2008.1.2                 
+I   17474   02:03:31 slotWarehouseCo Slothost                                 
+I   17474   02:03:31 SALtag                          2008.1.2                 
+I   17474   02:03:31 SALopto                         2008.1.2                 
+I   17474   02:03:31 dcsvoc_java                     dev                      
+I   17474   02:03:31 DCSvoc                          2008.1.2                 
+I   17474   02:03:31 dcsutil_java                    dev                      
+I   17474   02:03:31 DCSpalctl                       2008.1.2                 
+I   17474   02:03:31 DCSlist                         2008.1.2                 
+I   17474   02:03:31 DCSint                          2008.1.2                 
+I   17474   02:03:31 DCSfilter                       2008.1.2                 
+I   17474   02:03:31 DCSequip                                                 
+I   17474   02:03:31 DCSdistro                       2008.1.2                 
+I   17474   02:03:31 DCScontext                      2008.1.2                 
+I   17474   02:03:31 DCScbs                          2008.1.2                 
+I   17474   02:03:31 DCSasset                        2008.1.2                 
+I   17474   02:03:31 DCSscm                          2008.1.2                 
+I   17474   02:03:31 DCSwo                           2008.1.2                 
+I   17474   02:03:31 DCSrf                           2008.1.2                 
+I   17474   02:03:31 DCSlm                           2008.1.2                 
+I   17474   02:03:31 mcsi                            2008.1.2                 
+I   17474   02:03:31 dcsdyncfg                       2008.1.2                 
+I   17474   02:03:31 DCSpck                          2008.1.2                 
+I   17474   02:03:31 DCStm                           2008.1.2                 
+I   17474   02:03:31 DCSserv                         2008.1.2                 
+I   17474   02:03:31 DCSordact                       2008.1.2                 
+I   17474   02:03:31 DCSfdx                          2008.1.2                 
+I   17474   02:03:31 DCSsup                          2008.1.2                 
+I   17474   02:03:31 DCSpm                           2008.1.2                 
+I   17474   02:03:31 DCSems                          2008.1.2                 
+I   17474   02:03:31 DCScmdrqa                       2008.1.2                 
+I   17474   02:03:31 DCSrfid                         2008.1.2                 
+I   17474   02:03:31 DCSi18n                         2008.1.2                 
+I   17474   02:03:31 DCStools                        2008.1.2                 
+I   17474   02:03:31 dcsmgtopr                       2008.1.2                 
+I   17474   02:03:31 DCSrpt                          2008.1.2                 
+I   17474   02:03:31 DCSlbl                          2008.1.2                 
+I   17474   02:03:31 DCSlens                         2008.1.2                 
+I   17474   02:03:31 DCStrlract                      2008.1.2                 
+I   17474   02:03:31 DCSinvact                       2008.1.2                 
+I   17474   02:03:31 DCSslot                         2008.1.2                 
+I   17474   02:03:31 DCSintegrtr                     2008.1.2                 
+I   17474   02:03:31 DCSprtftp                       2008.1.2                 
+I   17474   02:03:31 LMUser          LMint           2008.1.2                 
+I   17474   02:03:31 LMRegen                         2008.1.2                 
+I   17474   02:03:31 LMPurge                         2008.1.2                 
+I   17474   02:03:31 LMPCLog         LMPCLog         2008.1.2                 
+I   17474   02:03:31 LMDiscreteCalcu                 2008.1.2                 
+I   17474   02:03:31 LMCustomer      LMint           2008.1.2                 
+I   17474   02:03:31 LMWarehouseTran LMint           2008.1.2                 
+I   17474   02:03:31 LMWarehouseMAP  LMint           2008.1.2                 
+I   17474   02:03:31 LMWarehouseCopy LMint           2008.1.2                 
+I   17474   02:03:31 LMVOCOLLECTSOCK LMVocollectSock 2008.1.2                 
+I   17474   02:03:31 LMVocollect     LMVocollect     2008.1.2                 
+I   17474   02:03:31 LMUserGrouping  LMint           2008.1.2                 
+I   17474   02:03:31 LMTableAccess                   2008.1.2                 
+I   17474   02:03:31 LMStatistics                    2008.1.2                 
+I   17474   02:03:31 LMStandards                     2008.1.2                 
+I   17474   02:03:31 LMSlot          LMint           2008.1.2                 
+I   17474   02:03:31 LMSimulation                    2008.1.2                 
+I   17474   02:03:31 LMSignOn                        2008.1.2                 
+I   17474   02:03:31 LMScheduler                     2008.1.2                 
+I   17474   02:03:31 LMScard         LMScard         2008.1.2                 
+I   17474   02:03:31 LMReports       LMrpt           2008.1.2                 
+I   17474   02:03:31 LMReportCard    LMReportCard    2008.1.2                 
+I   17474   02:03:31 LMProcessLog    LMProcessLog    2008.1.2                 
+I   17474   02:03:31 LMPickError                     2008.1.2                 
+I   17474   02:03:31 LMPay           LMint           2008.1.2                 
+I   17474   02:03:31 LMObservation   LMint           2008.1.2                 
+I   17474   02:03:31 LMMobile                        2008.1.2                 
+I   17474   02:03:31 LMInventory     LMint           2008.1.2                 
+I   17474   02:03:31 LMEms           LMEms           2008.1.2                 
+I   17474   02:03:31 LMBase          LMBase          2008.1.2                 
+I   17474   02:03:31 LMAssignments                   2008.1.2                 
+I   17474   02:03:31 ctbase          ctbase          2008.1.2                 
+I   17474   02:03:31 ctReports       CTrpt           2008.1.2                 
+I   17474   02:03:31 ctPurge         CTint           2008.1.2                 
+I   17474   02:03:31 CTPayRules      CTPayRules      2008.1.2                 
+I   17474   02:03:31 CTOvertime      CTint           2008.1.2                 
+I   17474   02:03:31 CTNonWorkedTime CTNonWorkedTime 2008.1.2                 
+I   17474   02:03:31 CTIncentives    CTint           2008.1.2                 
+I   17474   02:03:31 ctems           CTint           2008.1.2                 
+I   17474   02:03:31 CTDifferential  CTint           2008.1.2                 
+I   17474   02:03:31 CTDiagnostic    CTint           2008.1.2                 
+I   17474   02:03:31 CTClockPunch    CTClockPunch    2008.1.2                 
+I   17474   02:03:31 SALlens                         2008.1.2                 
+I   17474   02:03:31 VARint                          Build Date: Jan 15 2016  
+I   17474   02:03:31 VARintHPTSorter                                          
+I   17474   02:03:31 VARintJIRA                                               
+I   17474   02:03:31 VARintPckReleas                                          
+I   17474   02:03:31 VARintReleasePm                                          
+I   17474   02:03:31 USRint                          Build Date: Feb 21 2014  
+I   17474   02:03:31 ws                                                       
+17474 T-SRV 02:03:31:593 [1] Called C function     (MOCAbase/mocaSetTrace)
+17474 T-SRV 02:03:31:593 [1] C function status: 0
+17474 T-SRV 02:03:31:593 [1] Executed command      (MOCAbase/set trace)
+17474 T-SQL 02:03:31:593 JDBC commit
+17474 T-SQL 02:03:31:594 ==> T_PERF = 0.001
+17474 T-SQL 02:03:31:594 JDBC commit
+17474 T-SQL 02:03:31:594 ==> T_PERF = 0.000
+17474 T-SRV 02:03:31:594 [0] Sending 1 row(s) to client...
+17474 T-SRV 02:03:31:594 [0] Sent 1 row(s) to client
+17474 T-SRV 02:03:31:594 [0] Dispatched command
+17474 T-SRV 02:03:34:003 [0] Dispatching command...
+17474 T-SRV 02:03:34:003 [0] Parsing command...
+17474 T-SRV 02:03:34:003 [0] download client component where filename = 'RedPrairie.WMD.Apps.cntreqopr2008_1_2.dll' and useCompression = true
+17474 T-SRV 02:03:34:003 [0] Parsed command
+17474 T-ARG 02:03:34:003 [1] Argument  filename=RedPrairie.WMD.Apps.cntreqopr2008_1_2.dll  (string)
+17474 T-ARG 02:03:34:003 [1] Argument  useCompression=1  (boolean)
+17474 T-ARG 02:03:34:003 [1] ---------------------------------------------------
+17474 T-SRV 02:03:34:003 [1] Finding command...    (download client component)
+17474 T-SRV 02:03:34:003 [1] Found command         (MCSbase/download client component)
+17474 T-ARG 02:03:34:003 [1] Parameter filename="RedPrairie.WMD.Apps.cntreqopr2008_1_2.dll"  (string)
+17474 T-ARG 02:03:34:003 [1] Parameter useCompression=1  (flag)
+17474 T-SRV 02:03:34:003 [1] Executing command...  (MCSbase/download client component)
+17474 T-SRV 02:03:34:003 Creating instance of ComponentDownloadService
+17474 T-SRV 02:03:34:003 Invoking method: public com.redprairie.moca.MocaResults com.redprairie.mcs.components.core.ComponentDownloadService.downloadClientComponent(java.lang.String,java.lang.String,java.lang.Integer,java.lang.Integer,java.lang.Integer,java.lang.Integer,java.lang.Boolean) throws com.redprairie.moca.MocaException
+17474 T-FLW 02:03:34:003 Found 38 download path policies
+17474 T-FLW 02:03:34:003 Attempting to download file from: /rp4t/app/redprairie/rwmsast1/mcs/downloads/forms/RedPrairie.WMD.Apps.cntreqopr2008_1_2.dll
+17474 T-FLW 02:03:34:003 File Not Found
+17474 T-FLW 02:03:34:003 Attempting to download file from: /rp4t/app/redprairie/rwmsast1/mcs/downloads/components/RedPrairie.WMD.Apps.cntreqopr2008_1_2.dll
+17474 T-FLW 02:03:34:003 File Not Found
+17474 T-FLW 02:03:34:003 Attempting to download file from: /rp4t/app/redprairie/rwmsast1/mcs/downloads/res/RedPrairie.WMD.Apps.cntreqopr2008_1_2.dll
+17474 T-FLW 02:03:34:003 File Not Found
+17474 T-FLW 02:03:34:003 Attempting to download file from: /rp4t/app/redprairie/rwmsast1/mcs/downloads/help/RedPrairie.WMD.Apps.cntreqopr2008_1_2.dll
+17474 T-FLW 02:03:34:003 File Not Found
+17474 T-FLW 02:03:34:003 Attempting to download file from: /rp4t/app/redprairie/rwmsast1/sal/downloads/forms/RedPrairie.WMD.Apps.cntreqopr2008_1_2.dll
+17474 T-FLW 02:03:34:004 File Not Found
+17474 T-FLW 02:03:34:004 Attempting to download file from: /rp4t/app/redprairie/rwmsast1/sal/downloads/components/RedPrairie.WMD.Apps.cntreqopr2008_1_2.dll
+17474 T-FLW 02:03:34:004 File Not Found
+17474 T-FLW 02:03:34:004 Attempting to download file from: /rp4t/app/redprairie/rwmsast1/sal/downloads/res/RedPrairie.WMD.Apps.cntreqopr2008_1_2.dll
+17474 T-FLW 02:03:34:004 File Not Found
+17474 T-FLW 02:03:34:004 Attempting to download file from: /rp4t/app/redprairie/rwmsast1/sal/downloads/help/RedPrairie.WMD.Apps.cntreqopr2008_1_2.dll
+17474 T-FLW 02:03:34:004 File Not Found
+17474 T-FLW 02:03:34:004 Attempting to download file from: /rp4t/app/redprairie/rwmsast1/slotting/downloads/forms/RedPrairie.WMD.Apps.cntreqopr2008_1_2.dll
+17474 T-FLW 02:03:34:004 File Not Found
+17474 T-FLW 02:03:34:004 Attempting to download file from: /rp4t/app/redprairie/rwmsast1/slotting/downloads/help/RedPrairie.WMD.Apps.cntreqopr2008_1_2.dll
+17474 T-FLW 02:03:34:004 File Not Found
+17474 T-FLW 02:03:34:004 Attempting to download file from: /rp4t/app/redprairie/rwmsast1/slotting/downloads/res/RedPrairie.WMD.Apps.cntreqopr2008_1_2.dll
+17474 T-FLW 02:03:34:004 File Not Found
+17474 T-FLW 02:03:34:004 Attempting to download file from: /rp4t/app/redprairie/rwmsast1/dcs/downloads/forms/RedPrairie.WMD.Apps.cntreqopr2008_1_2.dll
+17474 T-FLW 02:03:34:004 File Not Found
+17474 T-FLW 02:03:34:004 Attempting to download file from: /rp4t/app/redprairie/rwmsast1/dcs/downloads/components/RedPrairie.WMD.Apps.cntreqopr2008_1_2.dll
+17474 T-FLW 02:03:34:004 File Not Found
+17474 T-FLW 02:03:34:004 Attempting to download file from: /rp4t/app/redprairie/rwmsast1/dcs/downloads/res/RedPrairie.WMD.Apps.cntreqopr2008_1_2.dll
+17474 T-FLW 02:03:34:004 File Not Found
+17474 T-FLW 02:03:34:004 Attempting to download file from: /rp4t/app/redprairie/rwmsast1/dcs/downloads/help/RedPrairie.WMD.Apps.cntreqopr2008_1_2.dll
+17474 T-FLW 02:03:34:004 File Not Found
+17474 T-FLW 02:03:34:004 Attempting to download file from: $RFIDDIR/downloads/forms/RedPrairie.WMD.Apps.cntreqopr2008_1_2.dll
+17474 T-FLW 02:03:34:004 File Not Found
+17474 T-FLW 02:03:34:004 Attempting to download file from: $RFIDDIR/downloads/components/RedPrairie.WMD.Apps.cntreqopr2008_1_2.dll
+17474 T-FLW 02:03:34:005 File Not Found
+17474 T-FLW 02:03:34:005 Attempting to download file from: $RFIDDIR/downloads/res/RedPrairie.WMD.Apps.cntreqopr2008_1_2.dll
+17474 T-FLW 02:03:34:005 File Not Found
+17474 T-FLW 02:03:34:005 Attempting to download file from: $RFIDDIR/downloads/help/RedPrairie.WMD.Apps.cntreqopr2008_1_2.dll
+17474 T-FLW 02:03:34:005 File Not Found
+17474 T-FLW 02:03:34:005 Attempting to download file from: /rp4t/app/redprairie/rwmsast1/seamles/downloads/components/RedPrairie.WMD.Apps.cntreqopr2008_1_2.dll
+17474 T-FLW 02:03:34:005 File Not Found
+17474 T-FLW 02:03:34:005 Attempting to download file from: /rp4t/app/redprairie/rwmsast1/seamles/downloads/help/RedPrairie.WMD.Apps.cntreqopr2008_1_2.dll
+17474 T-FLW 02:03:34:005 File Not Found
+17474 T-FLW 02:03:34:005 Attempting to download file from: /rp4t/app/redprairie/rwmsast1/seamles/downloads/forms/RedPrairie.WMD.Apps.cntreqopr2008_1_2.dll
+17474 T-FLW 02:03:34:005 File Not Found
+17474 T-FLW 02:03:34:005 Attempting to download file from: /rp4t/app/redprairie/rwmsast1/seamles/downloads/res/RedPrairie.WMD.Apps.cntreqopr2008_1_2.dll
+17474 T-FLW 02:03:34:005 File Not Found
+17474 T-FLW 02:03:34:005 Attempting to download file from: /rp4t/app/redprairie/rwmsast1/lm/downloads/forms/RedPrairie.WMD.Apps.cntreqopr2008_1_2.dll
+17474 T-FLW 02:03:34:005 File Not Found
+17474 T-FLW 02:03:34:005 Attempting to download file from: /rp4t/app/redprairie/rwmsast1/lm/downloads/components/RedPrairie.WMD.Apps.cntreqopr2008_1_2.dll
+17474 T-FLW 02:03:34:005 File Not Found
+17474 T-FLW 02:03:34:005 Attempting to download file from: /rp4t/app/redprairie/rwmsast1/lm/downloads/res/RedPrairie.WMD.Apps.cntreqopr2008_1_2.dll
+17474 T-FLW 02:03:34:005 File Not Found
+17474 T-FLW 02:03:34:005 Attempting to download file from: /rp4t/app/redprairie/rwmsast1/lm/downloads/help/RedPrairie.WMD.Apps.cntreqopr2008_1_2.dll
+17474 T-FLW 02:03:34:005 File Not Found
+17474 T-FLW 02:03:34:005 Attempting to download file from: /rp4t/app/redprairie/rwmsast1/moca/downloads/components/RedPrairie.WMD.Apps.cntreqopr2008_1_2.dll
+17474 T-FLW 02:03:34:005 File Not Found
+17474 T-FLW 02:03:34:005 Attempting to download file from: /rp4t/app/redprairie/rwmsast1/comptrak/downloads/forms/RedPrairie.WMD.Apps.cntreqopr2008_1_2.dll
+17474 T-FLW 02:03:34:005 File Not Found
+17474 T-FLW 02:03:34:005 Attempting to download file from: /rp4t/app/redprairie/rwmsast1/comptrak/downloads/components/RedPrairie.WMD.Apps.cntreqopr2008_1_2.dll
+17474 T-FLW 02:03:34:006 File Not Found
+17474 T-FLW 02:03:34:006 Attempting to download file from: /rp4t/app/redprairie/rwmsast1/comptrak/downloads/res/RedPrairie.WMD.Apps.cntreqopr2008_1_2.dll
+17474 T-FLW 02:03:34:006 File Not Found
+17474 T-FLW 02:03:34:006 Attempting to download file from: /rp4t/app/redprairie/rwmsast1/comptrak/downloads/help/RedPrairie.WMD.Apps.cntreqopr2008_1_2.dll
+17474 T-FLW 02:03:34:006 File Not Found
+17474 T-FLW 02:03:34:006 Attempting to download file from: $EMSDIR/downloads/forms/RedPrairie.WMD.Apps.cntreqopr2008_1_2.dll
+17474 T-FLW 02:03:34:006 File Not Found
+17474 T-FLW 02:03:34:006 Attempting to download file from: $EMSDIR/downloads/help/RedPrairie.WMD.Apps.cntreqopr2008_1_2.dll
+17474 T-FLW 02:03:34:006 File Not Found
+17474 T-FLW 02:03:34:006 Attempting to download file from: $EMSDIR/downloads/res/RedPrairie.WMD.Apps.cntreqopr2008_1_2.dll
+17474 T-FLW 02:03:34:006 File Not Found
+17474 T-FLW 02:03:34:006 Attempting to download file from: $EMSDIR/downloads/components/RedPrairie.WMD.Apps.cntreqopr2008_1_2.dll
+17474 T-FLW 02:03:34:006 File Not Found
+17474 T-FLW 02:03:34:006 Attempting to download file from: /rp4t/app/redprairie/rwmsast1/les/downloads/forms/RedPrairie.WMD.Apps.cntreqopr2008_1_2.dll
+17474 T-FLW 02:03:34:006 File Not Found
+17474 T-FLW 02:03:34:006 Attempting to download file from: /rp4t/app/redprairie/rwmsast1/les/downloads/res/RedPrairie.WMD.Apps.cntreqopr2008_1_2.dll
+17474 T-FLW 02:03:34:006 File Not Found
+17474 T-SRV 02:03:34:007 Exception thrown from component: com.redprairie.moca.NotFoundException: no rows affected
+17474 T-SRV 02:03:34:007  at com.redprairie.mcs.components.core.ComponentDownloadService.downloadClientComponent(ComponentDownloadService.java:167)
+17474 T-SRV 02:03:34:007  at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+17474 T-SRV 02:03:34:008  at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+17474 T-SRV 02:03:34:008  at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+17474 T-SRV 02:03:34:008  at java.lang.reflect.Method.invoke(Method.java:597)
+17474 T-SRV 02:03:34:008  at com.redprairie.moca.exec.ComponentAdapter.executeMethod(ComponentAdapter.java:263)
+17474 T-SRV 02:03:34:008 [1] Executed command      (MCSbase/download client component)
+17474 T-SRV 02:03:34:008 [1] 
+17474 T-SRV 02:03:34:008 [1] *** RAISING ERROR -1403
+17474 T-SRV 02:03:34:008 [1] 
+17474 T-SRV 02:03:34:008 [1] no rows affected
+17474 T-SQL 02:03:34:008 JDBC rollback
+17474 T-SQL 02:03:34:008 ==> T_PERF = 0.000
+17474 T-SQL 02:03:34:008 JDBC commit
+17474 T-SQL 02:03:34:008 ==> T_PERF = 0.000
+17474 T-SRV 02:03:34:008 [0] Sending 0 row(s) to client...
+17474 T-SRV 02:03:34:008 [0] Sent 0 row(s) to client
+17474 T-SRV 02:03:34:008 [0] Dispatched command
+17474 T-SRV 02:03:44:518 [0] Dispatching command...
+17474 T-SRV 02:03:44:518 [0] Parsing command...
+17474 T-SRV 02:03:44:518 [0] set trace where activate = 0 
+17474 T-SRV 02:03:44:518 [0] Parsed command
+17474 T-ARG 02:03:44:518 [1] Argument  activate=0  (integer)
+17474 T-ARG 02:03:44:518 [1] ---------------------------------------------------
+17474 T-SRV 02:03:44:518 [1] Finding command...    (set trace)
+17474 T-SRV 02:03:44:518 [1] Found command         (MOCAbase/set trace)
+17474 T-ARG 02:03:44:518 [1] Parameter activate=0  (integer)
+17474 T-SRV 02:03:44:518 [1] Executing command...  (MOCAbase/set trace)
+17474 T-SRV 02:03:44:518 [1] Calling C function... (MOCAbase/mocaSetTrace)
